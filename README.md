@@ -1,5 +1,8 @@
 # Microsoft_Toolkit
 
+# CURRENT VERSION : V2.6.2
+# CURRENT VERSION : V2.6.2
+
 # Requirements:
 
 - Microsoft .net Framework 4.0 or above. (It is not supported by .net Framework 3.5)
