@@ -9,9 +9,9 @@
 
 # Features:
 
-Activation of MS Office 2007, 2010, 2013, and 2016
-Activation of Windows 7, Windows 8, Windows 8.1, Windows 10
-provides the lifetime activation of your windows and office
+- Activation of MS Office 2007, 2010, 2013, and 2016
+- Activation of Windows 7, Windows 8, Windows 8.1, Windows 10
+- provides the lifetime activation of your windows and office
 
 # Download : [HERE][]
 
