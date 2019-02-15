@@ -10,12 +10,26 @@
 # Features:
 
 - Activation of MS Office 2007, 2010, 2013, and 2016
-- Activation of Windows 7, Windows 8, Windows 8.1, Windows 10
+- Activation of Windows Vista, 7, 8, 8.1, 10
 - provides the lifetime activation of your windows and office
 
-# Download : [HERE][]
+# How to Activate Windows:
 
-# You can get Windows ISO on [This Site][]
+First you need to add a restriction policy for virus where the Toolkit gonna be downloaded or windows will delete it right away
+1. Open Windows Defender Security Center (Virus & threat protection Settings)
+ - Open Manage settings
+ - Open Add or Remove Exclusions
+ - Select Add a protected folder
+ - Add the folder where the files generated get download from your browser
+   (ex: C:\Users\YOUR_USERNAME\Downloads)
+2. Download Microsoft Toolkit [HERE][] and Open it
+3. Select the Windows Icon in the bottom right corner
+4. Select the Activation menu tab
+5. Make sure tool is on AutoKMS and press the Install button
+6. When AutoKMS is installed, press on EZ-Activator
+7. Enjoy your windows activated!
+
+**If you need to download Windows .iso (Windows Installation files) you can get them on [this site][]
 
 ![alt tag](https://raw.githubusercontent.com/bouletmarc/Microsoft_Toolkit/master/Microsoft_Toolkit1.png)
 
