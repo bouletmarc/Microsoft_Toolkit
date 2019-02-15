@@ -1,6 +1,6 @@
 # Microsoft_Toolkit
 
-# CURRENT VERSION : V2.6.2
+- Current Version: V2.6.2
 
 # Requirements:
 
