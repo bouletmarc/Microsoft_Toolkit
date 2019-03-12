@@ -28,6 +28,7 @@ First you need to add a restriction policy for virus where the Toolkit gonna be 
 5. Make sure tool is on AutoKMS and press the Install button
 6. When AutoKMS is installed, press on EZ-Activator
 7. Enjoy your windows activated!
+ - You can delete the Microsoft Toolkit from the computer and remove the restriction policy added earlier
 
 **If you need to download Windows .iso (Windows Installation files) you can get them on [this site][]
 
